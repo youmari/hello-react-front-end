@@ -14,7 +14,7 @@
 
 ## Back-end api
 
-[link to back-end](https://github.com/youmari/hello-react-back-end)
+[link to back-end](https://github.com/youmari/hello-rails-back-end)
 
 ## Getting Started
 
