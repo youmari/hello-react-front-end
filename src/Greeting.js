@@ -15,9 +15,9 @@ const Greeting = () => {
   return (
     <div>
       <h1>{greeting}</h1>
-      <button onClick={refreshPage}>Get greeting</button>
+      <button type="button" onClick={refreshPage}>Get greeting</button>
     </div>
   );
-}
+};
 
 export default Greeting;
